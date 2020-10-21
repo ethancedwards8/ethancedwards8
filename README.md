@@ -5,6 +5,8 @@
 You can learn more about me at my website, [ethancedwards.com](https://ethancedwards.com), and my blog [blog.ethancedwards.com](https://blog.ethancedwards.com)
 
 ![Ethan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ethancedwards8&count_private=true&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethancedwards&layout=compact&langs_count=8&theme=dracula)
 <!--
 **ethancedwards8/ethancedwards8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
