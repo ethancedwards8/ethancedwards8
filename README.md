@@ -1,4 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethancedwards8" alt="ethancedwards8" /> </p>  
+
 ### Hi there 
 
 You can learn more about me at my website, [ethancedwards.com](https://ethancedwards.com), and my blog [blog.ethancedwards.com](https://blog.ethancedwards.com)
