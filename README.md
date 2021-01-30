@@ -8,6 +8,5 @@ You can learn more about me at my website, [ethancedwards.com](https://ethancedw
 - 🔭 I’m currently working on: My Linux+ Cert
 - 💬 Ask me about Linux/Unix, Git, Docker
 - 📫 How to reach me: Email me :)
-- 😄 Pronouns: He/Him
 
 ![Ethan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ethancedwards8&count_private=true&show_icons=true&theme=dracula)
