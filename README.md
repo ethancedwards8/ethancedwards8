@@ -15,7 +15,7 @@ I've been using Linux full time since 7th grade and I've loved every second of i
 
 I host websites for clients that vary from a simple wordpress site to a Nextcloud server.
 
-This past summer I did an internship at a local business this summer, working on CentOS 7+8 servers with Docker and NFS.
+This past summer I did an internship at a local business, working on CentOS 7+8 servers with Docker and NFS.
 
 Some tools and skills I've picked up:
 
