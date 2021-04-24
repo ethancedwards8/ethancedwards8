@@ -22,6 +22,6 @@ Some tools and skills I've picked up:
 - Rust, Bash/Shell
 - Anything Linux/UNIX, Git, Docker Swarm, PGP/GPG, Digital Ocean
 - Emacs and Vim, Org mode, LaTeX, Markdown, and HTML/CSS
-- [NixOS](https://nixos.org)/[nix-darwin](https://github.com/lnl7/nix-darwin) and `nix` package manager for fully reproducible deployment and builds down to the byte, plus [declarative system managerment](https://gitlab.com/ethancedwards/dotfiles/-/blob/master/.nix)
+- [NixOS](https://nixos.org)/[nix-darwin](https://github.com/lnl7/nix-darwin) and `nix` package manager for fully reproducible deployment and builds down to the byte, plus [declarative system managerment](https://gitlab.com/ethancedwards/dotfiles/-/blob/master/)
 
 <!-- ![Ethan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ethancedwards8&count_private=true&show_icons=true&theme=dracula) -->
