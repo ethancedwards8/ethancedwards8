@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ethancedwards8" alt="ethancedwards8" /> </p>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ethancedwards8" alt="ethancedwards8" /> </p>
 
 ### Hi, I'm Ethan.
 
@@ -19,7 +19,7 @@ This past summer I did an internship at a local business, working on CentOS 7+8 
 
 Some tools and skills I've picked up:
 
-- Rust, Bash/Shell
+- Rust, Python, and Bash/Shell
 - Anything Linux/UNIX, Git, Docker Swarm, PGP/GPG, Digital Ocean
 - Emacs and Vim, Org mode, LaTeX, Markdown, and HTML/CSS
 - [NixOS](https://nixos.org)/[nix-darwin](https://github.com/lnl7/nix-darwin) and `nix` package manager for fully reproducible deployment and builds down to the byte, plus [declarative system managerment](https://gitlab.com/ethancedwards/dotfiles/-/blob/master/)
