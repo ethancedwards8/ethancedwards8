@@ -5,17 +5,13 @@
 You can learn more about me at my website, [ethancedwards.com](https://ethancedwards.com)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethancedwards&layout=compact&theme=dracula) -->
 
-I'm currently studying for my CompTIA Linux+ and AZ-900 exams.
+I'm currently studying for my CCNA certifications.
 
 I've been using Linux full time since 7th grade and I've loved every second of it.
 
 [![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](mailto:ethan@ethancedwards.com)
 
 ## Experience and Skills
-
-I host websites for clients that vary from a simple wordpress site to a Nextcloud server.
-
-This past summer I did an internship at a local business, working on CentOS 7+8 servers with Docker and NFS.
 
 Some tools and skills I've picked up:
 
