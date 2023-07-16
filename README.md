@@ -5,7 +5,7 @@
 You can learn more about me at my website, [ethancedwards.com](https://ethancedwards.com)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethancedwards&layout=compact&theme=dracula) -->
 
-I'm an A+, ISC2 CC GitLab Certified Git Associate. Currently deciding what to study next!
+I'm an A+, ISC2 CC, and GitLab Certified Git Associate. Currently studying the Security+!
 
 I've been using Linux full time since 7th grade and I've loved every second of it.
 
@@ -15,9 +15,9 @@ I've been using Linux full time since 7th grade and I've loved every second of i
 
 Some tools and skills I've picked up:
 
-- Rust, Python, and Bash/Shell
-- Anything Linux/UNIX, Git, Docker Swarm, PGP/GPG, Digital Ocean
-- Emacs and Vim, Org mode, LaTeX, Markdown, and HTML/CSS
+- C#, Python, PowerShell and Bash/Shell
+- Anything Linux/UNIX, Git, Docker, PGP/GnuPG
+- Web Hosting and Systems Administration
 - [NixOS](https://nixos.org)/[nix-darwin](https://github.com/lnl7/nix-darwin) and `nix` package manager for fully reproducible deployment and builds down to the byte, plus [declarative system managerment](https://gitlab.com/ethancedwards/dotfiles/-/blob/master/)
 
 <!-- ![Ethan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ethancedwards8&count_private=true&show_icons=true&theme=dracula) -->
