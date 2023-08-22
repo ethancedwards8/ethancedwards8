@@ -5,7 +5,7 @@
 You can learn more about me at my website, [ethancedwards.com](https://ethancedwards.com)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethancedwards&layout=compact&theme=dracula) -->
 
-I'm an A+, ISC2 CC, and GitLab Certified Git Associate. Currently studying the Security+!
+I'm an A+, Security+, ISC2 CC, and GitLab Certified Git Associate. Currently deciding what to study next.
 
 I've been using Linux full time since 7th grade and I've loved every second of it.
 
