@@ -15,7 +15,7 @@ I've been using Linux full time since 7th grade and I've loved every second of i
 
 My work/open source experience:
 - [Dracula Tmux](https://github.com/dracula/tmux): a themed plugin that adds Kubernetes, Git, SSH, hardware, and other status supports to your tmux status bar in an attractive way
-- Linux Kernel Development: I have submitted a few patches in SELinux subsystem.
+- Linux Kernel Development: I am active in [Kernel Self Protection Project](https://kspp.github.io/) development.
 - NixOS/Nixpkgs: I am an active contributor to the Nixpkgs collection. I specialize in Lisp and Rust applications.
 - Carroll County Public Schools: I am a Technology Support Intern. I manage a team of up to 6 interns at a time and coordinate weekly tasks and schedules. Two large projects I supervised were replacing old Smartboards and Projectors with 75 new interactive TVs across two buildings and unboxing, provisioning, packaging, and distributing 1200 new Chromebooks to students during the school year. We also do Chromebook repair and IT Support throughout the school year.
 - [The Ridge Podcast](https://theridgepodcast.com): I host a biweekly (weekly from episodes 1-72) podcast where I interview local Appalachians in my comunity. My guests include judges, lawyers, authors, journalists, teachers, first responders, veterans, and more.
