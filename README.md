@@ -2,6 +2,8 @@
 
 ### Hi, I'm Ethan.
 
+I am a Harvard student in the School of Engineering and Applied Sciences.
+
 You can learn more about me at my website, [ethancedwards.com](https://ethancedwards.com). You can also find some of my school and open source projects here.
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethancedwards&layout=compact&theme=dracula) -->
 
