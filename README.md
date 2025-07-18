@@ -12,6 +12,7 @@ I'm an A+, Security+, ISC2 CC, and GitLab Certified Git Associate. Currently dec
 I've been using Linux full time since 7th grade and I've loved every second of it.
 
 [![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](mailto:ethan@ethancedwards.com)
+GPG: 2E51 F618 39D1 FA94 7A73  00C2 34C0 4305 D581 DBFE
 
 ## Experience and Skills
 
