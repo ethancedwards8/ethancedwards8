@@ -7,7 +7,7 @@ I am a Harvard student in the School of Engineering and Applied Sciences.
 Relevant coursework:
 - CS 61 - Systems Programming & Machine Organization
 - CS 2620 - Graduate Distributed Systems
-- CS 152 - Programming Languages
+- CS 1520 - Programming Languages
 
 You can learn more about me at my website, [ethancedwards.com](https://ethancedwards.com). You can also find some of my school and open source projects here.
 
