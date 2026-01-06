@@ -7,9 +7,11 @@ I am a Harvard student in the School of Engineering and Applied Sciences.
 Relevant coursework:
 - CS 61 - Systems Programming & Machine Organization
 - CS 2620 - Graduate Distributed Systems
-- CS 1520 - Programming Languages
+- CS 1610 - Operating Systems
 
 You can learn more about me at my website, [ethancedwards.com](https://ethancedwards.com). You can also find some of my school and open source projects here.
+
+You can find my resume here: https://ethancedwards.com/latex/resume.pdf
 
 I'm an A+, Security+, ISC2 CC, and GitLab Certified Git Associate. Currently deciding what to study next.
 
@@ -25,9 +27,6 @@ My work/open source experience:
 - [Dracula Tmux](https://github.com/dracula/tmux) (750+ stars): I am the lead maintainer for this themed plugin that adds Kubernetes, Git, SSH, hardware, and other status supports to your tmux status bar in an attractive way
 - Linux Kernel Development: I am active in [Kernel Self Protection Project](https://kspp.github.io/) development.
 - NixOS/Nixpkgs: I am an [active](https://repology.org/maintainer/ethan%40ethancedwards.com) (175+ packages) contributor to the Nixpkgs collection. I was a Summer of Nix 2025 participant where I worked on [NGIpkgs](https://github.com/ngi-nix/ngipkgs).
-- Carroll County Public Schools: I was a Technology Support Intern. I managed a team of up to 7 interns and coordinated weekly tasks and schedules. Two large projects I supervised were replacing old Smartboards and Projectors with 75 new interactive TVs across two buildings and unboxing, provisioning, packaging, and distributing 1200 new Chromebooks to students during the school year. We also do Chromebook repair and IT Support throughout the school year. Another project was the installation of 40 interactive TVs aross three elementary schools. 
-- [The Ridge Podcast](https://theridgepodcast.com): 95+ episdes. I host a podcast where I interview local Appalachians in my comunity. My guests include judges, lawyers, authors, journalists, teachers, first responders, veterans, and more. 
-- StorageReview.com: I am a Contributing Technical Writer. I have written articles on networking equipment, software, storage drives, certifications, and more.
 
 Some tools and skills I've picked up:
 
