@@ -2,7 +2,7 @@
 
 ### Hi, I'm Ethan.
 
-I am a Harvard student in the School of Engineering and Applied Sciences.
+I am a Harvard student in the School of Engineering and Applied Sciences. I currently work at [Exa Labs](https://exa.ai/) doing infra and Nix.
 
 Relevant coursework:
 - CS 61 - Systems Programming & Machine Organization
@@ -17,8 +17,6 @@ You might know me from [dracula/tmux](https://github.com/dracula/tmux), [Nixpkgs
 You can learn more about me at my website, [ethancedwards.com](https://ethancedwards.com).
 
 I've been using Linux full time since 7th grade and I've loved every second of it.
-
-[![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](mailto:ethan@ethancedwards.com)
 
 GPG: 2E51 F618 39D1 FA94 7A73  00C2 34C0 4305 D581 DBFE
 
